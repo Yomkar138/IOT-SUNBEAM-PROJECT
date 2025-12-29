@@ -1,0 +1,1 @@
+{let e=()=>{is_local_env?document.cookie="mwa_SID=;path=/":document.cookie="mwa_SID=;path=/;secure"};-1==document.cookie.indexOf("mwa_SID")&&e()}
